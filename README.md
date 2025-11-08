@@ -5,3 +5,4 @@ modifuying  readme
 I am testing git squash
 Test Squash again 
 line1
+line2
